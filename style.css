@@ -62,7 +62,7 @@ footer p{
    text-align: center;
 }
 .middle{
-   background-image: url(/images/dream-bg.png);
+   background-image: url(images/dream-bg.png);
    background-repeat: no-repeat;
    background-position: right;
 }
@@ -76,7 +76,7 @@ footer p{
    border-left: 5px solid blue;
 }
 .last{
-   background-image: url(/images/exp-bg.png);
+   background-image: url(images/exp-bg.png);
    background-repeat: no-repeat;
    background-position: left;
 }
