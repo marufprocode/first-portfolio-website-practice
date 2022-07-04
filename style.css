@@ -1,0 +1,85 @@
+body{
+   margin: 0;
+   font-family: 'Poppins', sans-serif;
+}
+section{
+   display: flex;
+}
+.header{
+   background-image: url(/images/top-banner.png);
+   background-repeat: no-repeat;
+}
+.welcome{
+   font-size: 50px;
+   font-family: 'Splash', cursive;
+}
+.peter{
+   color: tomato;
+}
+.petern{
+   font-size: 35px;
+   line-height: 5px;
+}
+.div-width{
+   padding: 20px;
+   width: 50%;
+   margin-left: 80px;
+   margin-top: 40px;
+}
+.div-width img{
+   width: 80%;
+}
+.btn{
+   text-decoration: none;
+   background-image: linear-gradient(to right, #f6d365 0%, #fda085 51%, #f6d365 100%);
+   color: white;
+   padding: 12px 40px;
+   border-radius: 10px;
+   text-align: center;
+   display: inline-block;
+}
+.dream{
+   font-family: 'Splash', cursive;
+   font-size: 50px;
+}
+p{
+   text-align: justify;
+}
+.exp-sec{
+   font-size: 50px;
+   font-family: 'splash';
+   margin-left: 40px;
+}
+.box{
+   box-shadow: 10px 10px 40px grey;
+   width: 40%;
+   padding: 20px;
+   margin-bottom: 70px;
+   margin-top: 10px;
+   
+}
+footer p{
+   text-align: center;
+}
+.middle{
+   background-image: url(/images/dream-bg.png);
+   background-repeat: no-repeat;
+   background-position: right;
+}
+.middlediv{
+   margin-right: 7%;
+}
+.box1{
+   border-left: 5px solid tomato;
+}
+.box2{
+   border-left: 5px solid blue;
+}
+.last{
+   background-image: url(/images/exp-bg.png);
+   background-repeat: no-repeat;
+   background-position: left;
+}
+
+
+
